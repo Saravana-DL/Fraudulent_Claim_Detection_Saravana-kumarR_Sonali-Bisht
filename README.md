@@ -25,44 +25,4 @@ Predicting and Model Evaluation
 Data Dictionary
 The insurance claims data has 40 Columns and 1000 Rows. Following data dictionary provides the description for each column present in dataset:
 
-Column Name	Description
-months_as_customer	Represents the duration in months that a customer has been associated with the insurance company.
-age	Represents the age of the insured person.
-policy_number	Represents a unique identifier for each insurance policy.
-policy_bind_date	Represents the date when the insurance policy was initiated.
-policy_state	Represents the state where the insurance policy is applicable.
-policy_csl	Represents the combined single limit for the insurance policy.
-policy_deductable	Represents the amount that the insured person needs to pay before the insurance coverage kicks in.
-policy_annual_premium	Represents the yearly cost of the insurance policy.
-umbrella_limit	Represents an additional layer of liability coverage provided beyond the limits of the primary insurance policy.
-insured_zip	Represents the zip code of the insured person.
-insured_sex	Represents the gender of the insured person.
-insured_education_level	Represents the highest educational qualification of the insured person.
-insured_occupation	Represents the profession or job of the insured person.
-insured_hobbies	Represents the hobbies or leisure activities of the insured person.
-insured_relationship	Represents the relationship of the insured person to the policyholder.
-capital-gains	Represents the profit earned from the sale of assets such as stocks, bonds, or real estate.
-capital-loss	Represents the loss incurred from the sale of assets such as stocks, bonds, or real estate.
-incident_date	Represents the date when the incident or accident occurred.
-incident_type	Represents the category or type of incident that led to the claim.
-collision_type	Represents the type of collision that occurred in an accident.
-incident_severity	Represents the extent of damage or injury caused by the incident.
-authorities_contacted	Represents the authorities or agencies that were contacted after the incident.
-incident_state	Represents the state where the incident occurred.
-incident_city	Represents the city where the incident occurred.
-incident_location	Represents the specific location or address where the incident occurred.
-incident_hour_of_the_day	Represents the hour of the day when the incident occurred.
-number_of_vehicles_involved	Represents the total number of vehicles involved in the incident.
-property_damage	Represents whether there was any damage to property in the incident.
-bodily_injuries	Represents the number of bodily injuries resulting from the incident.
-witnesses	Represents the number of witnesses present at the scene of the incident.
-police_report_available	Represents whether a police report is available for the incident.
-total_claim_amount	Represents the total amount claimed by the insured person for the incident.
-injury_claim	Represents the amount claimed for injuries sustained in the incident.
-property_claim	Represents the amount claimed for property damage in the incident.
-vehicle_claim	Represents the amount claimed for vehicle damage in the incident.
-auto_make	Represents the manufacturer of the insured vehicle.
-auto_model	Represents the specific model of the insured vehicle.
-auto_year	Represents the year of manufacture of the insured vehicle.
-fraud_reported	Represents whether the claim was reported as fraudulent or not.
-_c39	Represents an unknown or unspecified variable.
+
