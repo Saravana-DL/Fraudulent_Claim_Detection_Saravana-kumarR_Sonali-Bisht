@@ -8,21 +8,35 @@ Global Insure wants to build a model to classify insurance claims as either frau
 Based on this assignment, you have to answer the following questions:
 
 ● How can we analyse historical claim data to detect patterns that indicate fraudulent claims?
+
 ● Which features are most predictive of fraudulent behaviour?
+
 ● Can we predict the likelihood of fraud for an incoming claim, based on past data?
+
 ● What insights can be drawn from the model that can help in improving the fraud detection process?
+
 Assignment Tasks
+
 You need to perform the following steps for successfully completing this assignment:
 
 Data Preparation
+
 Data Cleaning
+
 Train Validation Split 70-30
+
 EDA on Training Data
+
 EDA on Validation Data (optional)
+
 Feature Engineering
+
 Model Building
+
 Predicting and Model Evaluation
+
 Data Dictionary
+
 The insurance claims data has 40 Columns and 1000 Rows. Following data dictionary provides the description for each column present in dataset:
 
 
